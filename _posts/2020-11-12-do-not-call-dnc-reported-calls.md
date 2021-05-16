@@ -1,7 +1,7 @@
 ---
-title: Do Not Call (DNC) Reported Calls Data 5/25/18 - 5/31/18
-created: '2020-11-12T12:20:38.625663'
-modified: '2020-11-12T12:20:38.625674'
+title: Do Not Call (DNC) Reported Calls Data 6/15/18 - 6/21/18
+created: '2020-11-12T12:20:39.916664'
+modified: '2020-11-12T12:20:39.916671'
 state: active
 type: dataset
 tags:
@@ -12,7 +12,7 @@ tags:
   - Robocalls
 groups: []
 csv_url: >-
-  https://www.ftc.gov/sites/default/files/dnc_complaint_numbers_2018-05-28-0601_l.csv
+  https://www.ftc.gov/sites/default/files/dnc_complaint_numbers_2018-06-18-22.csv
 json_url: ''
 layout: post
 
